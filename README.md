@@ -14,7 +14,7 @@
 **PTT Software Development Company** is a professionally designed front-end interface built using modern web technologies. The UI showcases a visually appealing and responsive design, suitable for corporate or communication-based platforms. 
 
 ### Live Demo
-➡️ [View Live Demo](https://ppt-muol.onrender.com/){:target="_blank"}
+➡️ <a href="https://ppt-muol.onrender.com/" target="_blank">View Live Demo</a>
 
 ## Features
 
